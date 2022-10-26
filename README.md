@@ -1,4 +1,4 @@
-# Finger Counter
+# Telegram chat statistic
 In this project can you print statistic from Telegram chat.
 
 ## Features
@@ -7,7 +7,7 @@ In this project can you print statistic from Telegram chat.
 
 ## How to install
 1. Clone this repository on your computer
-`https://github.com/paveldat/finger_counter.git`
+`https://github.com/Genya45/TelegramChatStatistic.git`
 2. Install all the requirements `pip install -r requirements.txt`
 3. Collect statistics from the telegram chat in the folder with the program. An example is described in paragraph `Help`
 4. Run the program
